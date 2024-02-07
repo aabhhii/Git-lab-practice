@@ -7,5 +7,13 @@ helllllllllllllllloooooooooooooo
 ghum hai kisiki pyaar mein
 Placid, calm, peace
 IDK how to merge
+<<<<<<< HEAD
 HUM AAPKE HEIN
 LAPTOPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+=======
+{
+}
+{
+}
+[][][][][]
+
