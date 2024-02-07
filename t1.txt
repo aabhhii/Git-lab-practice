@@ -1,8 +1,4 @@
-Git repository
-git bash
-lab manual
-FOLDER
-DIRECTORIE
+
 
 
 
