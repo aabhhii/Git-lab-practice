@@ -2,4 +2,8 @@ Git repository
 git bash
 lab manual
 FOLDER
-DIRECTORIES
+DIRECTORIE
+
+
+
+S
